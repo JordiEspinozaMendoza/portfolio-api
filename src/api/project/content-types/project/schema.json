@@ -32,6 +32,9 @@
     },
     "featured": {
       "type": "boolean"
+    },
+    "tags": {
+      "type": "json"
     }
   }
 }

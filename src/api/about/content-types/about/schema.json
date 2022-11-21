@@ -4,7 +4,8 @@
   "info": {
     "singularName": "about",
     "pluralName": "abouts",
-    "displayName": "About"
+    "displayName": "About",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -19,6 +20,24 @@
     },
     "description_en": {
       "type": "richtext"
+    },
+    "cv_url": {
+      "type": "text"
+    },
+    "email_contact": {
+      "type": "email"
+    },
+    "header_description": {
+      "type": "text"
+    },
+    "header_subtitle": {
+      "type": "text"
+    },
+    "header_description_en": {
+      "type": "text"
+    },
+    "header_subtitle_en": {
+      "type": "text"
     }
   }
 }
