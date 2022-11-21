@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "skillsets",
+  "info": {
+    "singularName": "skillset",
+    "pluralName": "skillsets",
+    "displayName": "Skillset"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "data": {
+      "type": "json"
+    }
+  }
+}
